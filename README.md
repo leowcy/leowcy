@@ -25,7 +25,7 @@
 - **Databases:** PostgreSQL, MongoDB  
 
 #### 🌐 Web3 Tech Stack:
-- Smart Contracts, NFT, Ethereum Indexers, Minimal proxy
+- Smart Contracts, NFT, Ethereum Indexers, Minimal proxy, Mint Voucher
 
 #### ⚙️ Tools:
 - Git, Docker, AWS  
