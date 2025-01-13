@@ -14,8 +14,6 @@
   Stablecoins, real-world assets in Web3, and computer science concepts like BFS/DFS/DP.  
 - 🤔 **Open To Opportunities:**  
   Yes, I’m looking for exciting new roles!  
-- 📫 **Reach Me At:**  
-  [LinkedIn](https://www.linkedin.com/in/chengyao-wu-b398857b/)  
 - ⚡ **Fun Fact:**  
   🏀 I’m a **Top 10 NBA2K20 3v3 player**!  
 
