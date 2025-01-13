@@ -11,7 +11,7 @@
 - 🔭 **Currently Working On:**  
   Blockchain, Web3, AI Agents, and *LeetCode grinding* every day! 😉  
 - 🌱 **Currently Learning:**  
-  Stablecoins, real-world assets in Web3, and computer science concepts like BFS/DFS/DP.  
+  Stablecoins, real-world assets in Web3, AI, web3 gaming, Internet of things, Robot! 
 - 🤔 **Open To Opportunities:**  
   Yes, I’m looking for exciting new roles!  
 - ⚡ **Fun Fact:**  
