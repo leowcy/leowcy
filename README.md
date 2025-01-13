@@ -23,11 +23,9 @@
 
 ---
 
-### 🛠️ Tech & Tools:
-
 #### 💻 Languages & Frameworks:
-- **Blockchain:** Solidity, Python  
-- **Backend:** Flask, Node.js  
+- **Blockchain:** Solidity, Go  
+- **Backend:** Python, Node.js, Flask, FastAPI
 - **Databases:** PostgreSQL, MongoDB  
 
 #### 🌐 Web3 Tech Stack:
@@ -36,20 +34,6 @@
 #### ⚙️ Tools:
 - Git, Docker, AWS  
 - Grafana, Prometheus  
-
----
-
-### 📈 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leowcy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leowcy&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-### 📖 Motto:
-_"Success is not final; failure is not fatal: It is the courage to continue that counts."_  
 
 ---
 
