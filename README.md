@@ -20,15 +20,15 @@
 ---
 
 #### 💻 Languages & Frameworks:
-- **Blockchain:** Solidity, Go  
+- **Blockchain:** Solidity, Go, Foundry, Slither
 - **Backend:** Python, Node.js, Flask, FastAPI
 - **Databases:** PostgreSQL, MongoDB  
 
 #### 🌐 Web3 Tech Stack:
-- Smart Contracts, Stablecoins, Ethereum Indexers  
+- Smart Contracts, NFT, Ethereum Indexers, Minimal proxy
 
 #### ⚙️ Tools:
 - Git, Docker, AWS  
-- Grafana, Prometheus  
+- Grafana, Prometheus, Sentry
 
 ---
