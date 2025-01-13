@@ -16,8 +16,6 @@
   Yes, I’m looking for exciting new roles!  
 - 📫 **Reach Me At:**  
   [LinkedIn](https://www.linkedin.com/in/chengyao-wu-b398857b/)  
-- 😄 **Pronouns:**  
-  Cheng Yao or Leo  
 - ⚡ **Fun Fact:**  
   🏀 I’m a **Top 10 NBA2K20 3v3 player**!  
 
