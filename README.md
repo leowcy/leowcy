@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Blockchain, Web3, Ai agent, and of course, leetcode everyday. ;)
+- 🌱 I’m currently learning blockchain web3 stablecoin real-world-asset and bfs/dfs/dp/ so on.
+- 🤔 I’m looking for jobs!
+- 📫 How to reach me: [https://www.linkedin.com/in/chengyao-wu-b398857b/]
+- 😄 Pronouns: Cheng Yao or Leo
+- ⚡ Fun fact: Laughing came before language
+
 <!--
 **leowcy/leowcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
