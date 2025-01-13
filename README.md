@@ -32,5 +32,3 @@
 - Grafana, Prometheus  
 
 ---
-
-<p align="center">🚀 **Let’s build the future together!** 🚀</p>
