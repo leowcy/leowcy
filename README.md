@@ -15,7 +15,7 @@
 - 🤔 **Open To Opportunities:**  
   Yes, I’m looking for exciting new roles!  
 - ⚡ **Fun Fact:**  
-  🏀 I’m a **Top 10 NBA2K20 3v3 player**!  
+  🏀 I’m a **Top 10 NBA2K player in one of events**!  
 
 ---
 
