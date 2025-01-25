@@ -22,6 +22,11 @@
 
 ---
 
+[![github contribution grid snake animation](https://raw.githubusercontent.com/leowcy/leowcy/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/leowcy)
+
+
+---
+
 #### 💻 Languages & Frameworks:
 - **Blockchain:** Solidity, Go, Foundry, Slither
 - **Backend:** Python, Node.js, Flask, FastAPI
