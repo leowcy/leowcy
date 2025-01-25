@@ -1,3 +1,6 @@
+<!-- markdownlint-disable MD041 MD010 MD033 -->
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=leowcy%2Fgithub-visitors-badge&label=VISITORS&labelColor=%23dce775&countColor=%2337d67a)](https://visitorbadge.io/status?path=leowcy%2Fgithub-visitors-badge)
+
 <h1 align="center">Hi there, I'm Cheng Yao (Leo) 👋</h1>
 
 <p align="center">
