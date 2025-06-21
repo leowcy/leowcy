@@ -12,9 +12,9 @@
 ### 👨‍💻 About Me:
 
 - 🔭 **Currently Working On:**  
-  Blockchain, Web3, NFT, AI Agents, and *LeetCode grinding*!
+  Fintech, DeFi, DAML/Canton, ETH, Web3, NFT, AI Agents, Stablecoin, RWA!
 - 🌱 **Currently Learning:**  
-  Restaking, Real world asset, Stablecoins, Preconfirmation, Rollups, L2!
+  DAML/Canton, DeFi, Alts Investment, Restaking, Real world asset, Stablecoins, Preconfirmation, Rollups, L2!
 - 🤔 **Open To Opportunities:**  
   Yes, I’m looking for exciting new roles!  
 - ⚡ **Fun Fact:**  
@@ -28,7 +28,7 @@
 
 #### 💻 Languages & Frameworks:
 - **Backend:** Python, Node.js, Typescript
-- **Blockchain:** Solidity, Go, Hyperledger Fabric
+- **Blockchain:** Solidity, Go, Hyperledger Fabric, Canton
 - **Databases:** PostgreSQL, MongoDB, CouchDB
 
 #### 🌐 Web3 Tech Stack:
